@@ -1,24 +1,26 @@
 
-<h3>Personal Website</h3>
+<h3>Portfolio Website</h3>
 
-## Project setup
+<h5>Hi. This is the fourth iteration of my personal website.</h5>
+<h5>After cloning, you can follow the steps below to spin up a dev server and run the site locally.</h5>
+
+<h4>Project setup</h4>
 
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+<h4>Compiles and hot-reloads for development</h4>
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+<h4>Compiles and minifies for production</h4>
 ```
 npm run build
 ```
 
-### Lints and fixes files
+<h4>Lints and fixes files</h4>
 ```
 npm run lint
 ```
-
