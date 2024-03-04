@@ -32,7 +32,7 @@
                    </div>
     
                     <div class="send-message-container-details">
-                        <form action="https://formspree.io/f/xknerajz" name="site_form" method="POST" data-netlify="true" id="form">
+                        <form action="" name="site_form" method="POST" data-netlify="true" id="form">
     
                             <div class="name-email-container">
                                 
