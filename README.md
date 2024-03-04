@@ -11,16 +11,19 @@ npm install
 ```
 
 <h4>Compiles and hot-reloads for development</h4>
+
 ```
 npm run serve
 ```
 
 <h4>Compiles and minifies for production</h4>
+
 ```
 npm run build
 ```
 
 <h4>Lints and fixes files</h4>
+
 ```
 npm run lint
 ```
